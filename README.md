@@ -43,7 +43,7 @@ docker-compose down
 Check miner logs:
 ```
 docker-compose logs -f
-```
+```.
 
 ### Run the miner with more advanced options
 ```
